@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Web 3 and BlockChain development
-- 🌱 I’m currently learning Python,Javascript and Solidity
+- 🌱 I’m currently learning Css,Javascript and Solidity
 - 👯 I’m looking to collaborate on World-Changing Projects
 - 🤔 I’m looking for help with Internships,Part-time and Full-time Job Oppourtunities
 - 💬 Ask me about Techinical Writing, Web 3 and Block-Chain
